@@ -36,9 +36,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Challenges:
 
-Need to look up developer documents for information about NSDates
-Need to refactor code to reduce duplicate logic
-Understanding the concept of Segua
+- Need to look up developer documents for information about NSDates
+- Need to refactor code to reduce duplicate logic
+- Understanding the concept of Segua
 
 ## License
 
